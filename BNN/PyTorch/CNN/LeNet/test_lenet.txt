@@ -1,0 +1,1500 @@
+Epoch1
+Test Loss:0.07286444
+Test Accuracy:97.56
+Epoch2
+Test Loss:0.044178486
+Test Accuracy:98.44000000000001
+Epoch3
+Test Loss:0.0409879
+Test Accuracy:98.58
+Epoch4
+Test Loss:0.042626437
+Test Accuracy:98.53
+Epoch5
+Test Loss:0.03974747
+Test Accuracy:98.74000000000001
+Epoch6
+Test Loss:0.032978445
+Test Accuracy:98.92999999999999
+Epoch7
+Test Loss:0.04668178
+Test Accuracy:98.7
+Epoch8
+Test Loss:0.039087527
+Test Accuracy:98.95
+Epoch9
+Test Loss:0.058420703
+Test Accuracy:98.34
+Epoch10
+Test Loss:0.044847883
+Test Accuracy:98.61
+Epoch11
+Test Loss:0.042692073
+Test Accuracy:98.9
+Epoch12
+Test Loss:0.040315304
+Test Accuracy:98.96000000000001
+Epoch13
+Test Loss:0.03947121
+Test Accuracy:99.03999999999999
+Epoch14
+Test Loss:0.045974873
+Test Accuracy:98.85000000000001
+Epoch15
+Test Loss:0.04296531
+Test Accuracy:99.00999999999999
+Epoch16
+Test Loss:0.04648615
+Test Accuracy:98.97
+Epoch17
+Test Loss:0.05497455
+Test Accuracy:98.82
+Epoch18
+Test Loss:0.053565685
+Test Accuracy:98.91
+Epoch19
+Test Loss:0.038807057
+Test Accuracy:99.11
+Epoch20
+Test Loss:0.046059877
+Test Accuracy:98.95
+Epoch21
+Test Loss:0.04576422
+Test Accuracy:98.85000000000001
+Epoch22
+Test Loss:0.048210252
+Test Accuracy:99.06
+Epoch23
+Test Loss:0.050600458
+Test Accuracy:98.99
+Epoch24
+Test Loss:0.042122394
+Test Accuracy:99.08
+Epoch25
+Test Loss:0.06287927
+Test Accuracy:98.86
+Epoch26
+Test Loss:0.048935182
+Test Accuracy:99.02
+Epoch27
+Test Loss:0.055713
+Test Accuracy:99.03999999999999
+Epoch28
+Test Loss:0.059968434
+Test Accuracy:98.99
+Epoch29
+Test Loss:0.058041032
+Test Accuracy:98.91
+Epoch30
+Test Loss:0.08143652
+Test Accuracy:98.50999999999999
+Epoch31
+Test Loss:0.06500348
+Test Accuracy:98.86
+Epoch32
+Test Loss:0.055591308
+Test Accuracy:99.03999999999999
+Epoch33
+Test Loss:0.057426155
+Test Accuracy:99.03
+Epoch34
+Test Loss:0.055905275
+Test Accuracy:99.06
+Epoch35
+Test Loss:0.071490295
+Test Accuracy:98.89
+Epoch36
+Test Loss:0.048813656
+Test Accuracy:99.1
+Epoch37
+Test Loss:0.050460476
+Test Accuracy:99.0
+Epoch38
+Test Loss:0.059435803
+Test Accuracy:98.94
+Epoch39
+Test Loss:0.051705327
+Test Accuracy:99.08
+Epoch40
+Test Loss:0.052850164
+Test Accuracy:99.13
+Epoch41
+Test Loss:0.058686126
+Test Accuracy:98.92999999999999
+Epoch42
+Test Loss:0.06708099
+Test Accuracy:98.77
+Epoch43
+Test Loss:0.070324905
+Test Accuracy:98.91
+Epoch44
+Test Loss:0.058218945
+Test Accuracy:98.95
+Epoch45
+Test Loss:0.10756157
+Test Accuracy:98.46000000000001
+Epoch46
+Test Loss:0.056065015
+Test Accuracy:99.06
+Epoch47
+Test Loss:0.05874169
+Test Accuracy:99.05000000000001
+Epoch48
+Test Loss:0.07135999
+Test Accuracy:99.03
+Epoch49
+Test Loss:0.07057185
+Test Accuracy:98.91
+Epoch50
+Test Loss:0.07253141
+Test Accuracy:98.98
+Epoch51
+Test Loss:0.06511655
+Test Accuracy:98.97
+Epoch52
+Test Loss:0.06809884
+Test Accuracy:98.96000000000001
+Epoch53
+Test Loss:0.07561729
+Test Accuracy:99.00999999999999
+Epoch54
+Test Loss:0.06831246
+Test Accuracy:98.9
+Epoch55
+Test Loss:0.07930893
+Test Accuracy:98.83
+Epoch56
+Test Loss:0.077974066
+Test Accuracy:98.92999999999999
+Epoch57
+Test Loss:0.08218703
+Test Accuracy:98.92999999999999
+Epoch58
+Test Loss:0.071076035
+Test Accuracy:99.07000000000001
+Epoch59
+Test Loss:0.066097215
+Test Accuracy:99.09
+Epoch60
+Test Loss:0.07666258
+Test Accuracy:99.03
+Epoch61
+Test Loss:0.11656405
+Test Accuracy:98.6
+Epoch62
+Test Loss:0.086423226
+Test Accuracy:98.94
+Epoch63
+Test Loss:0.07745589
+Test Accuracy:98.94
+Epoch64
+Test Loss:0.08544298
+Test Accuracy:98.5
+Epoch65
+Test Loss:0.0910017
+Test Accuracy:98.81
+Epoch66
+Test Loss:0.0709308
+Test Accuracy:99.08
+Epoch67
+Test Loss:0.09235316
+Test Accuracy:98.91
+Epoch68
+Test Loss:0.07048901
+Test Accuracy:99.02
+Epoch69
+Test Loss:0.10426217
+Test Accuracy:98.74000000000001
+Epoch70
+Test Loss:0.07933347
+Test Accuracy:98.99
+Epoch71
+Test Loss:0.089802586
+Test Accuracy:99.02
+Epoch72
+Test Loss:0.0873095
+Test Accuracy:98.81
+Epoch73
+Test Loss:0.10298537
+Test Accuracy:98.81
+Epoch74
+Test Loss:0.09513452
+Test Accuracy:98.9
+Epoch75
+Test Loss:0.07219628
+Test Accuracy:99.06
+Epoch76
+Test Loss:0.07383363
+Test Accuracy:99.07000000000001
+Epoch77
+Test Loss:0.07845477
+Test Accuracy:98.92999999999999
+Epoch78
+Test Loss:0.077167846
+Test Accuracy:99.0
+Epoch79
+Test Loss:0.101444304
+Test Accuracy:98.87
+Epoch80
+Test Loss:0.12958488
+Test Accuracy:98.67
+Epoch81
+Test Loss:0.11864408
+Test Accuracy:98.89
+Epoch82
+Test Loss:0.0799094
+Test Accuracy:99.08
+Epoch83
+Test Loss:0.08816635
+Test Accuracy:99.16
+Epoch84
+Test Loss:0.08056741
+Test Accuracy:99.2
+Epoch85
+Test Loss:0.071779594
+Test Accuracy:99.13
+Epoch86
+Test Loss:0.08767468
+Test Accuracy:98.96000000000001
+Epoch87
+Test Loss:0.07732495
+Test Accuracy:99.24
+Epoch88
+Test Loss:0.09443725
+Test Accuracy:98.95
+Epoch89
+Test Loss:0.07471217
+Test Accuracy:99.11999999999999
+Epoch90
+Test Loss:0.10378671
+Test Accuracy:99.00999999999999
+Epoch91
+Test Loss:0.108817734
+Test Accuracy:98.9
+Epoch92
+Test Loss:0.104782045
+Test Accuracy:98.94
+Epoch93
+Test Loss:0.097216494
+Test Accuracy:99.06
+Epoch94
+Test Loss:0.13316423
+Test Accuracy:98.97
+Epoch95
+Test Loss:0.10005313
+Test Accuracy:99.07000000000001
+Epoch96
+Test Loss:0.10968237
+Test Accuracy:98.96000000000001
+Epoch97
+Test Loss:0.12440416
+Test Accuracy:99.05000000000001
+Epoch98
+Test Loss:0.11474577
+Test Accuracy:98.94
+Epoch99
+Test Loss:0.143434
+Test Accuracy:98.98
+Epoch100
+Test Loss:0.11589687
+Test Accuracy:98.99
+Epoch101
+Test Loss:0.11144668
+Test Accuracy:99.08
+Epoch102
+Test Loss:0.10744218
+Test Accuracy:99.08
+Epoch103
+Test Loss:0.10789662
+Test Accuracy:99.07000000000001
+Epoch104
+Test Loss:0.10893691
+Test Accuracy:99.07000000000001
+Epoch105
+Test Loss:0.109596446
+Test Accuracy:99.07000000000001
+Epoch106
+Test Loss:0.11028328
+Test Accuracy:99.06
+Epoch107
+Test Loss:0.11113689
+Test Accuracy:99.07000000000001
+Epoch108
+Test Loss:0.111951694
+Test Accuracy:99.07000000000001
+Epoch109
+Test Loss:0.112480275
+Test Accuracy:99.07000000000001
+Epoch110
+Test Loss:0.11318658
+Test Accuracy:99.09
+Epoch111
+Test Loss:0.113875
+Test Accuracy:99.1
+Epoch112
+Test Loss:0.11483395
+Test Accuracy:99.1
+Epoch113
+Test Loss:0.11575691
+Test Accuracy:99.11
+Epoch114
+Test Loss:0.11673258
+Test Accuracy:99.11
+Epoch115
+Test Loss:0.11769062
+Test Accuracy:99.11
+Epoch116
+Test Loss:0.11864844
+Test Accuracy:99.11
+Epoch117
+Test Loss:0.1195715
+Test Accuracy:99.11
+Epoch118
+Test Loss:0.12056356
+Test Accuracy:99.11
+Epoch119
+Test Loss:0.12167424
+Test Accuracy:99.11
+Epoch120
+Test Loss:0.12286557
+Test Accuracy:99.11
+Epoch121
+Test Loss:0.12391364
+Test Accuracy:99.11
+Epoch122
+Test Loss:0.12510332
+Test Accuracy:99.11999999999999
+Epoch123
+Test Loss:0.12618767
+Test Accuracy:99.11999999999999
+Epoch124
+Test Loss:0.12746623
+Test Accuracy:99.11999999999999
+Epoch125
+Test Loss:0.12875713
+Test Accuracy:99.11999999999999
+Epoch126
+Test Loss:0.12993874
+Test Accuracy:99.13
+Epoch127
+Test Loss:0.13132417
+Test Accuracy:99.14
+Epoch128
+Test Loss:0.13243122
+Test Accuracy:99.14
+Epoch129
+Test Loss:0.13377431
+Test Accuracy:99.13
+Epoch130
+Test Loss:0.13498652
+Test Accuracy:99.13
+Epoch131
+Test Loss:0.13651016
+Test Accuracy:99.13
+Epoch132
+Test Loss:0.137859
+Test Accuracy:99.13
+Epoch133
+Test Loss:0.1390617
+Test Accuracy:99.11999999999999
+Epoch134
+Test Loss:0.14030953
+Test Accuracy:99.11999999999999
+Epoch135
+Test Loss:0.1416728
+Test Accuracy:99.11999999999999
+Epoch136
+Test Loss:0.142915
+Test Accuracy:99.13
+Epoch137
+Test Loss:0.14410158
+Test Accuracy:99.13
+Epoch138
+Test Loss:0.14528517
+Test Accuracy:99.13
+Epoch139
+Test Loss:0.14634547
+Test Accuracy:99.13
+Epoch140
+Test Loss:0.14733844
+Test Accuracy:99.11999999999999
+Epoch141
+Test Loss:0.14845668
+Test Accuracy:99.11999999999999
+Epoch142
+Test Loss:0.14949451
+Test Accuracy:99.11999999999999
+Epoch143
+Test Loss:0.15055566
+Test Accuracy:99.11999999999999
+Epoch144
+Test Loss:0.15156558
+Test Accuracy:99.11999999999999
+Epoch145
+Test Loss:0.15254177
+Test Accuracy:99.11999999999999
+Epoch146
+Test Loss:0.15349089
+Test Accuracy:99.11999999999999
+Epoch147
+Test Loss:0.15438752
+Test Accuracy:99.11999999999999
+Epoch148
+Test Loss:0.15526648
+Test Accuracy:99.11999999999999
+Epoch149
+Test Loss:0.15637809
+Test Accuracy:99.11999999999999
+Epoch150
+Test Loss:0.1573326
+Test Accuracy:99.11999999999999
+Epoch151
+Test Loss:0.15827544
+Test Accuracy:99.11999999999999
+Epoch152
+Test Loss:0.159005
+Test Accuracy:99.11
+Epoch153
+Test Loss:0.16001447
+Test Accuracy:99.1
+Epoch154
+Test Loss:0.16094299
+Test Accuracy:99.1
+Epoch155
+Test Loss:0.16188687
+Test Accuracy:99.11
+Epoch156
+Test Loss:0.16306762
+Test Accuracy:99.1
+Epoch157
+Test Loss:0.16415125
+Test Accuracy:99.11
+Epoch158
+Test Loss:0.16531107
+Test Accuracy:99.1
+Epoch159
+Test Loss:0.16627298
+Test Accuracy:99.1
+Epoch160
+Test Loss:0.16688599
+Test Accuracy:99.1
+Epoch161
+Test Loss:0.16800661
+Test Accuracy:99.11
+Epoch162
+Test Loss:0.16922398
+Test Accuracy:99.11
+Epoch163
+Test Loss:0.17038718
+Test Accuracy:99.11
+Epoch164
+Test Loss:0.17193069
+Test Accuracy:99.11
+Epoch165
+Test Loss:0.17257449
+Test Accuracy:99.11
+Epoch166
+Test Loss:0.17372161
+Test Accuracy:99.11
+Epoch167
+Test Loss:0.17525208
+Test Accuracy:99.11999999999999
+Epoch168
+Test Loss:0.17654605
+Test Accuracy:99.11999999999999
+Epoch169
+Test Loss:0.17789347
+Test Accuracy:99.14
+Epoch170
+Test Loss:0.17946798
+Test Accuracy:99.15
+Epoch171
+Test Loss:0.17981675
+Test Accuracy:99.14
+Epoch172
+Test Loss:0.18067618
+Test Accuracy:99.16
+Epoch173
+Test Loss:0.18296607
+Test Accuracy:99.15
+Epoch174
+Test Loss:0.18447165
+Test Accuracy:99.15
+Epoch175
+Test Loss:0.18576047
+Test Accuracy:99.15
+Epoch176
+Test Loss:0.18660255
+Test Accuracy:99.16
+Epoch177
+Test Loss:0.18718399
+Test Accuracy:99.16
+Epoch178
+Test Loss:0.18833075
+Test Accuracy:99.16
+Epoch179
+Test Loss:0.18959464
+Test Accuracy:99.17
+Epoch180
+Test Loss:0.19097658
+Test Accuracy:99.17
+Epoch181
+Test Loss:0.19255048
+Test Accuracy:99.16
+Epoch182
+Test Loss:0.19368507
+Test Accuracy:99.16
+Epoch183
+Test Loss:0.19477096
+Test Accuracy:99.15
+Epoch184
+Test Loss:0.19750994
+Test Accuracy:99.14
+Epoch185
+Test Loss:0.19767332
+Test Accuracy:99.14
+Epoch186
+Test Loss:0.19926207
+Test Accuracy:99.15
+Epoch187
+Test Loss:0.2014448
+Test Accuracy:99.15
+Epoch188
+Test Loss:0.20391288
+Test Accuracy:99.15
+Epoch189
+Test Loss:0.20620093
+Test Accuracy:99.14
+Epoch190
+Test Loss:0.20707656
+Test Accuracy:99.14
+Epoch191
+Test Loss:0.20863985
+Test Accuracy:99.15
+Epoch192
+Test Loss:0.20856562
+Test Accuracy:99.14
+Epoch193
+Test Loss:0.2102993
+Test Accuracy:99.15
+Epoch194
+Test Loss:0.21183902
+Test Accuracy:99.14
+Epoch195
+Test Loss:0.21262991
+Test Accuracy:99.13
+Epoch196
+Test Loss:0.21329221
+Test Accuracy:99.14
+Epoch197
+Test Loss:0.21460551
+Test Accuracy:99.14
+Epoch198
+Test Loss:0.21583696
+Test Accuracy:99.14
+Epoch199
+Test Loss:0.21792898
+Test Accuracy:99.14
+Epoch200
+Test Loss:0.21931745
+Test Accuracy:99.14
+Epoch201
+Test Loss:0.2199927
+Test Accuracy:99.14
+Epoch202
+Test Loss:0.22094978
+Test Accuracy:99.14
+Epoch203
+Test Loss:0.22261016
+Test Accuracy:99.14
+Epoch204
+Test Loss:0.22426294
+Test Accuracy:99.14
+Epoch205
+Test Loss:0.22532803
+Test Accuracy:99.15
+Epoch206
+Test Loss:0.22661406
+Test Accuracy:99.14
+Epoch207
+Test Loss:0.22791353
+Test Accuracy:99.14
+Epoch208
+Test Loss:0.22938503
+Test Accuracy:99.14
+Epoch209
+Test Loss:0.2323135
+Test Accuracy:99.15
+Epoch210
+Test Loss:0.23183283
+Test Accuracy:99.15
+Epoch211
+Test Loss:0.23448843
+Test Accuracy:99.15
+Epoch212
+Test Loss:0.2364393
+Test Accuracy:99.15
+Epoch213
+Test Loss:0.23757946
+Test Accuracy:99.15
+Epoch214
+Test Loss:0.23841162
+Test Accuracy:99.15
+Epoch215
+Test Loss:0.23921181
+Test Accuracy:99.15
+Epoch216
+Test Loss:0.24035874
+Test Accuracy:99.15
+Epoch217
+Test Loss:0.2417295
+Test Accuracy:99.15
+Epoch218
+Test Loss:0.24359371
+Test Accuracy:99.15
+Epoch219
+Test Loss:0.24370264
+Test Accuracy:99.16
+Epoch220
+Test Loss:0.4901311
+Test Accuracy:98.58
+Epoch221
+Test Loss:0.12784451
+Test Accuracy:98.81
+Epoch222
+Test Loss:0.1112063
+Test Accuracy:98.9
+Epoch223
+Test Loss:0.117641725
+Test Accuracy:99.02
+Epoch224
+Test Loss:0.10560443
+Test Accuracy:98.98
+Epoch225
+Test Loss:0.11002024
+Test Accuracy:99.0
+Epoch226
+Test Loss:0.12106079
+Test Accuracy:98.92999999999999
+Epoch227
+Test Loss:0.107300684
+Test Accuracy:98.96000000000001
+Epoch228
+Test Loss:0.12142426
+Test Accuracy:99.03999999999999
+Epoch229
+Test Loss:0.11153251
+Test Accuracy:99.02
+Epoch230
+Test Loss:0.10874292
+Test Accuracy:99.06
+Epoch231
+Test Loss:0.13297015
+Test Accuracy:98.99
+Epoch232
+Test Loss:0.1490782
+Test Accuracy:98.95
+Epoch233
+Test Loss:0.16234076
+Test Accuracy:98.82
+Epoch234
+Test Loss:0.15323813
+Test Accuracy:98.85000000000001
+Epoch235
+Test Loss:0.11139367
+Test Accuracy:99.02
+Epoch236
+Test Loss:0.11404851
+Test Accuracy:99.09
+Epoch237
+Test Loss:0.09900747
+Test Accuracy:98.96000000000001
+Epoch238
+Test Loss:0.08906891
+Test Accuracy:99.18
+Epoch239
+Test Loss:0.09897867
+Test Accuracy:99.24
+Epoch240
+Test Loss:0.12425603
+Test Accuracy:99.2
+Epoch241
+Test Loss:0.11125806
+Test Accuracy:99.15
+Epoch242
+Test Loss:0.119554795
+Test Accuracy:99.02
+Epoch243
+Test Loss:0.120458096
+Test Accuracy:98.99
+Epoch244
+Test Loss:0.111952506
+Test Accuracy:99.13
+Epoch245
+Test Loss:0.12502849
+Test Accuracy:99.05000000000001
+Epoch246
+Test Loss:0.11918321
+Test Accuracy:99.13
+Epoch247
+Test Loss:0.11834084
+Test Accuracy:99.07000000000001
+Epoch248
+Test Loss:0.13064179
+Test Accuracy:98.95
+Epoch249
+Test Loss:0.1573652
+Test Accuracy:98.89
+Epoch250
+Test Loss:0.1550198
+Test Accuracy:98.75
+Epoch251
+Test Loss:0.1430955
+Test Accuracy:99.03
+Epoch252
+Test Loss:0.11319048
+Test Accuracy:98.96000000000001
+Epoch253
+Test Loss:0.107589565
+Test Accuracy:99.15
+Epoch254
+Test Loss:0.11820888
+Test Accuracy:99.05000000000001
+Epoch255
+Test Loss:0.12326784
+Test Accuracy:99.03
+Epoch256
+Test Loss:0.11376928
+Test Accuracy:99.17
+Epoch257
+Test Loss:0.112084806
+Test Accuracy:99.15
+Epoch258
+Test Loss:0.11151443
+Test Accuracy:99.16
+Epoch259
+Test Loss:0.11145102
+Test Accuracy:99.15
+Epoch260
+Test Loss:0.111481056
+Test Accuracy:99.17
+Epoch261
+Test Loss:0.11156146
+Test Accuracy:99.16
+Epoch262
+Test Loss:0.11164999
+Test Accuracy:99.16
+Epoch263
+Test Loss:0.111823276
+Test Accuracy:99.16
+Epoch264
+Test Loss:0.11197291
+Test Accuracy:99.16
+Epoch265
+Test Loss:0.11218966
+Test Accuracy:99.16
+Epoch266
+Test Loss:0.11240127
+Test Accuracy:99.16
+Epoch267
+Test Loss:0.11263298
+Test Accuracy:99.17
+Epoch268
+Test Loss:0.11294949
+Test Accuracy:99.16
+Epoch269
+Test Loss:0.11328439
+Test Accuracy:99.16
+Epoch270
+Test Loss:0.11366308
+Test Accuracy:99.17
+Epoch271
+Test Loss:0.11411574
+Test Accuracy:99.18
+Epoch272
+Test Loss:0.11452692
+Test Accuracy:99.17
+Epoch273
+Test Loss:0.11504062
+Test Accuracy:99.16
+Epoch274
+Test Loss:0.11556227
+Test Accuracy:99.16
+Epoch275
+Test Loss:0.11609799
+Test Accuracy:99.17
+Epoch276
+Test Loss:0.116666354
+Test Accuracy:99.17
+Epoch277
+Test Loss:0.117266335
+Test Accuracy:99.17
+Epoch278
+Test Loss:0.11784918
+Test Accuracy:99.17
+Epoch279
+Test Loss:0.11854559
+Test Accuracy:99.17
+Epoch280
+Test Loss:0.119243704
+Test Accuracy:99.17
+Epoch281
+Test Loss:0.119954005
+Test Accuracy:99.17
+Epoch282
+Test Loss:0.12070264
+Test Accuracy:99.16
+Epoch283
+Test Loss:0.121434584
+Test Accuracy:99.17
+Epoch284
+Test Loss:0.1221828
+Test Accuracy:99.18
+Epoch285
+Test Loss:0.122975305
+Test Accuracy:99.18
+Epoch286
+Test Loss:0.12375714
+Test Accuracy:99.18
+Epoch287
+Test Loss:0.1245461
+Test Accuracy:99.19
+Epoch288
+Test Loss:0.12536973
+Test Accuracy:99.18
+Epoch289
+Test Loss:0.12618814
+Test Accuracy:99.18
+Epoch290
+Test Loss:0.12703416
+Test Accuracy:99.19
+Epoch291
+Test Loss:0.1278336
+Test Accuracy:99.19
+Epoch292
+Test Loss:0.12864639
+Test Accuracy:99.19
+Epoch293
+Test Loss:0.12956464
+Test Accuracy:99.19
+Epoch294
+Test Loss:0.13044702
+Test Accuracy:99.21
+Epoch295
+Test Loss:0.13132775
+Test Accuracy:99.22
+Epoch296
+Test Loss:0.13219404
+Test Accuracy:99.22
+Epoch297
+Test Loss:0.13299057
+Test Accuracy:99.22
+Epoch298
+Test Loss:0.13387434
+Test Accuracy:99.22
+Epoch299
+Test Loss:0.13464583
+Test Accuracy:99.22
+Epoch300
+Test Loss:0.13551877
+Test Accuracy:99.22
+Epoch301
+Test Loss:0.13627206
+Test Accuracy:99.22
+Epoch302
+Test Loss:0.13702585
+Test Accuracy:99.21
+Epoch303
+Test Loss:0.13778844
+Test Accuracy:99.21
+Epoch304
+Test Loss:0.13848564
+Test Accuracy:99.22
+Epoch305
+Test Loss:0.13923141
+Test Accuracy:99.24
+Epoch306
+Test Loss:0.13999474
+Test Accuracy:99.22999999999999
+Epoch307
+Test Loss:0.14074664
+Test Accuracy:99.22999999999999
+Epoch308
+Test Loss:0.1414606
+Test Accuracy:99.22999999999999
+Epoch309
+Test Loss:0.14213705
+Test Accuracy:99.22
+Epoch310
+Test Loss:0.14276746
+Test Accuracy:99.22
+Epoch311
+Test Loss:0.14346884
+Test Accuracy:99.22
+Epoch312
+Test Loss:0.14414392
+Test Accuracy:99.22
+Epoch313
+Test Loss:0.14474258
+Test Accuracy:99.22999999999999
+Epoch314
+Test Loss:0.14539106
+Test Accuracy:99.22999999999999
+Epoch315
+Test Loss:0.1459693
+Test Accuracy:99.22999999999999
+Epoch316
+Test Loss:0.14661501
+Test Accuracy:99.22999999999999
+Epoch317
+Test Loss:0.147291
+Test Accuracy:99.22
+Epoch318
+Test Loss:0.14797689
+Test Accuracy:99.21
+Epoch319
+Test Loss:0.14860167
+Test Accuracy:99.21
+Epoch320
+Test Loss:0.14920609
+Test Accuracy:99.21
+Epoch321
+Test Loss:0.14975372
+Test Accuracy:99.22
+Epoch322
+Test Loss:0.15032429
+Test Accuracy:99.22
+Epoch323
+Test Loss:0.15081607
+Test Accuracy:99.22
+Epoch324
+Test Loss:0.15130767
+Test Accuracy:99.22
+Epoch325
+Test Loss:0.15177216
+Test Accuracy:99.22
+Epoch326
+Test Loss:0.15218817
+Test Accuracy:99.22
+Epoch327
+Test Loss:0.15248436
+Test Accuracy:99.22
+Epoch328
+Test Loss:0.15296766
+Test Accuracy:99.22
+Epoch329
+Test Loss:0.15334903
+Test Accuracy:99.22
+Epoch330
+Test Loss:0.15374401
+Test Accuracy:99.22
+Epoch331
+Test Loss:0.15408875
+Test Accuracy:99.21
+Epoch332
+Test Loss:0.15440962
+Test Accuracy:99.21
+Epoch333
+Test Loss:0.15476665
+Test Accuracy:99.21
+Epoch334
+Test Loss:0.15506774
+Test Accuracy:99.21
+Epoch335
+Test Loss:0.15534303
+Test Accuracy:99.21
+Epoch336
+Test Loss:0.1556432
+Test Accuracy:99.21
+Epoch337
+Test Loss:0.15592352
+Test Accuracy:99.21
+Epoch338
+Test Loss:0.15613505
+Test Accuracy:99.21
+Epoch339
+Test Loss:0.15641306
+Test Accuracy:99.21
+Epoch340
+Test Loss:0.15667714
+Test Accuracy:99.21
+Epoch341
+Test Loss:0.15693434
+Test Accuracy:99.21
+Epoch342
+Test Loss:0.1571466
+Test Accuracy:99.21
+Epoch343
+Test Loss:0.1573998
+Test Accuracy:99.21
+Epoch344
+Test Loss:0.15758584
+Test Accuracy:99.21
+Epoch345
+Test Loss:0.15774615
+Test Accuracy:99.21
+Epoch346
+Test Loss:0.15795763
+Test Accuracy:99.21
+Epoch347
+Test Loss:0.15814643
+Test Accuracy:99.21
+Epoch348
+Test Loss:0.15834549
+Test Accuracy:99.21
+Epoch349
+Test Loss:0.15852615
+Test Accuracy:99.21
+Epoch350
+Test Loss:0.1587186
+Test Accuracy:99.21
+Epoch351
+Test Loss:0.15889707
+Test Accuracy:99.21
+Epoch352
+Test Loss:0.15907833
+Test Accuracy:99.21
+Epoch353
+Test Loss:0.15923391
+Test Accuracy:99.2
+Epoch354
+Test Loss:0.15939029
+Test Accuracy:99.2
+Epoch355
+Test Loss:0.15954384
+Test Accuracy:99.2
+Epoch356
+Test Loss:0.15969472
+Test Accuracy:99.2
+Epoch357
+Test Loss:0.15984191
+Test Accuracy:99.2
+Epoch358
+Test Loss:0.15998027
+Test Accuracy:99.2
+Epoch359
+Test Loss:0.16012615
+Test Accuracy:99.2
+Epoch360
+Test Loss:0.16027196
+Test Accuracy:99.2
+Epoch361
+Test Loss:0.16042237
+Test Accuracy:99.2
+Epoch362
+Test Loss:0.16055912
+Test Accuracy:99.2
+Epoch363
+Test Loss:0.16069597
+Test Accuracy:99.2
+Epoch364
+Test Loss:0.16083068
+Test Accuracy:99.2
+Epoch365
+Test Loss:0.16096054
+Test Accuracy:99.19
+Epoch366
+Test Loss:0.16107924
+Test Accuracy:99.19
+Epoch367
+Test Loss:0.1612185
+Test Accuracy:99.19
+Epoch368
+Test Loss:0.16132385
+Test Accuracy:99.19
+Epoch369
+Test Loss:0.16144249
+Test Accuracy:99.19
+Epoch370
+Test Loss:0.16156432
+Test Accuracy:99.19
+Epoch371
+Test Loss:0.16166155
+Test Accuracy:99.19
+Epoch372
+Test Loss:0.16177025
+Test Accuracy:99.19
+Epoch373
+Test Loss:0.16187742
+Test Accuracy:99.19
+Epoch374
+Test Loss:0.16199636
+Test Accuracy:99.19
+Epoch375
+Test Loss:0.16211219
+Test Accuracy:99.19
+Epoch376
+Test Loss:0.16221023
+Test Accuracy:99.19
+Epoch377
+Test Loss:0.16231339
+Test Accuracy:99.19
+Epoch378
+Test Loss:0.16242762
+Test Accuracy:99.19
+Epoch379
+Test Loss:0.16253701
+Test Accuracy:99.19
+Epoch380
+Test Loss:0.16264191
+Test Accuracy:99.19
+Epoch381
+Test Loss:0.1627469
+Test Accuracy:99.19
+Epoch382
+Test Loss:0.162849
+Test Accuracy:99.19
+Epoch383
+Test Loss:0.16294794
+Test Accuracy:99.19
+Epoch384
+Test Loss:0.16305405
+Test Accuracy:99.19
+Epoch385
+Test Loss:0.16315372
+Test Accuracy:99.19
+Epoch386
+Test Loss:0.16324945
+Test Accuracy:99.19
+Epoch387
+Test Loss:0.1633522
+Test Accuracy:99.19
+Epoch388
+Test Loss:0.16344611
+Test Accuracy:99.19
+Epoch389
+Test Loss:0.1635395
+Test Accuracy:99.19
+Epoch390
+Test Loss:0.16362931
+Test Accuracy:99.19
+Epoch391
+Test Loss:0.16373359
+Test Accuracy:99.19
+Epoch392
+Test Loss:0.16381605
+Test Accuracy:99.19
+Epoch393
+Test Loss:0.16391873
+Test Accuracy:99.19
+Epoch394
+Test Loss:0.16400352
+Test Accuracy:99.19
+Epoch395
+Test Loss:0.164083
+Test Accuracy:99.19
+Epoch396
+Test Loss:0.16416597
+Test Accuracy:99.19
+Epoch397
+Test Loss:0.16425459
+Test Accuracy:99.19
+Epoch398
+Test Loss:0.16433974
+Test Accuracy:99.19
+Epoch399
+Test Loss:0.16443022
+Test Accuracy:99.19
+Epoch400
+Test Loss:0.16450383
+Test Accuracy:99.19
+Epoch401
+Test Loss:0.16458026
+Test Accuracy:99.19
+Epoch402
+Test Loss:0.16466007
+Test Accuracy:99.19
+Epoch403
+Test Loss:0.16473939
+Test Accuracy:99.19
+Epoch404
+Test Loss:0.16481975
+Test Accuracy:99.19
+Epoch405
+Test Loss:0.1648947
+Test Accuracy:99.19
+Epoch406
+Test Loss:0.16496977
+Test Accuracy:99.19
+Epoch407
+Test Loss:0.1650459
+Test Accuracy:99.19
+Epoch408
+Test Loss:0.16512477
+Test Accuracy:99.19
+Epoch409
+Test Loss:0.16519856
+Test Accuracy:99.19
+Epoch410
+Test Loss:0.16526783
+Test Accuracy:99.19
+Epoch411
+Test Loss:0.16534068
+Test Accuracy:99.19
+Epoch412
+Test Loss:0.16541262
+Test Accuracy:99.19
+Epoch413
+Test Loss:0.16548093
+Test Accuracy:99.19
+Epoch414
+Test Loss:0.165551
+Test Accuracy:99.19
+Epoch415
+Test Loss:0.1656164
+Test Accuracy:99.19
+Epoch416
+Test Loss:0.1656836
+Test Accuracy:99.19
+Epoch417
+Test Loss:0.16574945
+Test Accuracy:99.19
+Epoch418
+Test Loss:0.16581109
+Test Accuracy:99.19
+Epoch419
+Test Loss:0.16587995
+Test Accuracy:99.19
+Epoch420
+Test Loss:0.1659429
+Test Accuracy:99.19
+Epoch421
+Test Loss:0.16601065
+Test Accuracy:99.19
+Epoch422
+Test Loss:0.16607137
+Test Accuracy:99.19
+Epoch423
+Test Loss:0.16613568
+Test Accuracy:99.19
+Epoch424
+Test Loss:0.16619678
+Test Accuracy:99.19
+Epoch425
+Test Loss:0.16626449
+Test Accuracy:99.19
+Epoch426
+Test Loss:0.16632047
+Test Accuracy:99.19
+Epoch427
+Test Loss:0.16639741
+Test Accuracy:99.19
+Epoch428
+Test Loss:0.16644564
+Test Accuracy:99.19
+Epoch429
+Test Loss:0.16650942
+Test Accuracy:99.19
+Epoch430
+Test Loss:0.16655761
+Test Accuracy:99.19
+Epoch431
+Test Loss:0.16661799
+Test Accuracy:99.19
+Epoch432
+Test Loss:0.16667427
+Test Accuracy:99.19
+Epoch433
+Test Loss:0.16673401
+Test Accuracy:99.19
+Epoch434
+Test Loss:0.1667892
+Test Accuracy:99.19
+Epoch435
+Test Loss:0.16684954
+Test Accuracy:99.19
+Epoch436
+Test Loss:0.16690694
+Test Accuracy:99.19
+Epoch437
+Test Loss:0.16696456
+Test Accuracy:99.19
+Epoch438
+Test Loss:0.16701882
+Test Accuracy:99.19
+Epoch439
+Test Loss:0.16707864
+Test Accuracy:99.19
+Epoch440
+Test Loss:0.1671372
+Test Accuracy:99.19
+Epoch441
+Test Loss:0.16718534
+Test Accuracy:99.19
+Epoch442
+Test Loss:0.16724299
+Test Accuracy:99.19
+Epoch443
+Test Loss:0.16729766
+Test Accuracy:99.19
+Epoch444
+Test Loss:0.16734621
+Test Accuracy:99.19
+Epoch445
+Test Loss:0.16740167
+Test Accuracy:99.19
+Epoch446
+Test Loss:0.1674605
+Test Accuracy:99.19
+Epoch447
+Test Loss:0.16751628
+Test Accuracy:99.19
+Epoch448
+Test Loss:0.16755913
+Test Accuracy:99.19
+Epoch449
+Test Loss:0.1676124
+Test Accuracy:99.19
+Epoch450
+Test Loss:0.16766456
+Test Accuracy:99.19
+Epoch451
+Test Loss:0.1677116
+Test Accuracy:99.19
+Epoch452
+Test Loss:0.16776866
+Test Accuracy:99.19
+Epoch453
+Test Loss:0.16781919
+Test Accuracy:99.19
+Epoch454
+Test Loss:0.16786684
+Test Accuracy:99.19
+Epoch455
+Test Loss:0.16792095
+Test Accuracy:99.19
+Epoch456
+Test Loss:0.16797018
+Test Accuracy:99.19
+Epoch457
+Test Loss:0.16801457
+Test Accuracy:99.19
+Epoch458
+Test Loss:0.1680606
+Test Accuracy:99.19
+Epoch459
+Test Loss:0.16811581
+Test Accuracy:99.19
+Epoch460
+Test Loss:0.16815522
+Test Accuracy:99.19
+Epoch461
+Test Loss:0.1682011
+Test Accuracy:99.19
+Epoch462
+Test Loss:0.16824923
+Test Accuracy:99.19
+Epoch463
+Test Loss:0.16830146
+Test Accuracy:99.19
+Epoch464
+Test Loss:0.16834205
+Test Accuracy:99.19
+Epoch465
+Test Loss:0.16839029
+Test Accuracy:99.19
+Epoch466
+Test Loss:0.16843723
+Test Accuracy:99.19
+Epoch467
+Test Loss:0.16847599
+Test Accuracy:99.19
+Epoch468
+Test Loss:0.16852032
+Test Accuracy:99.19
+Epoch469
+Test Loss:0.1685661
+Test Accuracy:99.19
+Epoch470
+Test Loss:0.16862038
+Test Accuracy:99.19
+Epoch471
+Test Loss:0.16864872
+Test Accuracy:99.19
+Epoch472
+Test Loss:0.16869453
+Test Accuracy:99.19
+Epoch473
+Test Loss:0.16873753
+Test Accuracy:99.19
+Epoch474
+Test Loss:0.16877973
+Test Accuracy:99.19
+Epoch475
+Test Loss:0.16882873
+Test Accuracy:99.19
+Epoch476
+Test Loss:0.16886646
+Test Accuracy:99.19
+Epoch477
+Test Loss:0.16890904
+Test Accuracy:99.19
+Epoch478
+Test Loss:0.16895016
+Test Accuracy:99.19
+Epoch479
+Test Loss:0.16898917
+Test Accuracy:99.19
+Epoch480
+Test Loss:0.16903292
+Test Accuracy:99.19
+Epoch481
+Test Loss:0.16907322
+Test Accuracy:99.19
+Epoch482
+Test Loss:0.16911557
+Test Accuracy:99.19
+Epoch483
+Test Loss:0.16915412
+Test Accuracy:99.19
+Epoch484
+Test Loss:0.16919306
+Test Accuracy:99.19
+Epoch485
+Test Loss:0.16923493
+Test Accuracy:99.19
+Epoch486
+Test Loss:0.16927388
+Test Accuracy:99.19
+Epoch487
+Test Loss:0.16932306
+Test Accuracy:99.19
+Epoch488
+Test Loss:0.1693535
+Test Accuracy:99.19
+Epoch489
+Test Loss:0.16939203
+Test Accuracy:99.19
+Epoch490
+Test Loss:0.1694302
+Test Accuracy:99.19
+Epoch491
+Test Loss:0.16946675
+Test Accuracy:99.19
+Epoch492
+Test Loss:0.16950795
+Test Accuracy:99.19
+Epoch493
+Test Loss:0.16954689
+Test Accuracy:99.2
+Epoch494
+Test Loss:0.16958264
+Test Accuracy:99.2
+Epoch495
+Test Loss:0.1696222
+Test Accuracy:99.2
+Epoch496
+Test Loss:0.16965774
+Test Accuracy:99.2
+Epoch497
+Test Loss:0.16969606
+Test Accuracy:99.2
+Epoch498
+Test Loss:0.16973442
+Test Accuracy:99.2
+Epoch499
+Test Loss:0.16977172
+Test Accuracy:99.2
+Epoch500
+Test Loss:0.16980805
+Test Accuracy:99.2

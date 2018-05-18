@@ -1,0 +1,429 @@
+Epoch:1
+Test Loss:1.9260432
+Test Accuracy:33.15
+Epoch:2
+Test Loss:1.5846585
+Test Accuracy:46.27
+Epoch:3
+Test Loss:1.426636
+Test Accuracy:51.41
+Epoch:4
+Test Loss:1.4208109
+Test Accuracy:51.24999999999999
+Epoch:5
+Test Loss:1.368201
+Test Accuracy:53.449999999999996
+Epoch:6
+Test Loss:1.3592778
+Test Accuracy:53.690000000000005
+Epoch:7
+Test Loss:1.3250945
+Test Accuracy:54.800000000000004
+Epoch:8
+Test Loss:1.3108226
+Test Accuracy:55.08
+Epoch:9
+Test Loss:1.2882543
+Test Accuracy:56.53
+Epoch:10
+Test Loss:1.3112239
+Test Accuracy:55.00000000000001
+Epoch:11
+Test Loss:1.2644316
+Test Accuracy:56.599999999999994
+Epoch:12
+Test Loss:1.3323818
+Test Accuracy:55.279999999999994
+Epoch:13
+Test Loss:1.3064607
+Test Accuracy:56.010000000000005
+Epoch:14
+Test Loss:1.2661139
+Test Accuracy:56.38999999999999
+Epoch:15
+Test Loss:1.3030488
+Test Accuracy:56.08
+Epoch:16
+Test Loss:1.3035437
+Test Accuracy:55.85
+Epoch:17
+Test Loss:1.2671387
+Test Accuracy:56.830000000000005
+Epoch:18
+Test Loss:1.2755105
+Test Accuracy:56.14
+Epoch:19
+Test Loss:1.2763226
+Test Accuracy:56.64
+Epoch:20
+Test Loss:1.2786752
+Test Accuracy:56.699999999999996
+Epoch:21
+Test Loss:1.285904
+Test Accuracy:55.88999999999999
+Epoch:22
+Test Loss:1.3139627
+Test Accuracy:55.059999999999995
+Epoch:23
+Test Loss:1.2833133
+Test Accuracy:56.34
+Epoch:24
+Test Loss:1.2649168
+Test Accuracy:57.03
+Epoch:25
+Test Loss:1.253913
+Test Accuracy:57.69
+Epoch:26
+Test Loss:1.2533659
+Test Accuracy:57.28
+Epoch:27
+Test Loss:1.2649536
+Test Accuracy:56.37
+Epoch:28
+Test Loss:1.2405903
+Test Accuracy:57.709999999999994
+Epoch:29
+Test Loss:1.3109322
+Test Accuracy:55.26
+Epoch:30
+Test Loss:1.2603102
+Test Accuracy:57.769999999999996
+Epoch:31
+Test Loss:1.2414452
+Test Accuracy:58.10999999999999
+Epoch:32
+Test Loss:1.2371486
+Test Accuracy:57.709999999999994
+Epoch:33
+Test Loss:1.2526636
+Test Accuracy:56.989999999999995
+Epoch:34
+Test Loss:1.2232482
+Test Accuracy:58.52
+Epoch:35
+Test Loss:1.2462955
+Test Accuracy:57.46
+Epoch:36
+Test Loss:1.2610887
+Test Accuracy:56.720000000000006
+Epoch:37
+Test Loss:1.2178417
+Test Accuracy:58.43000000000001
+Epoch:38
+Test Loss:1.2363324
+Test Accuracy:57.15
+Epoch:39
+Test Loss:1.2260475
+Test Accuracy:58.28
+Epoch:40
+Test Loss:1.2087753
+Test Accuracy:58.86
+Epoch:41
+Test Loss:1.2681321
+Test Accuracy:56.95
+Epoch:42
+Test Loss:1.2239406
+Test Accuracy:58.809999999999995
+Epoch:43
+Test Loss:1.213979
+Test Accuracy:58.76
+Epoch:44
+Test Loss:1.2088926
+Test Accuracy:58.79
+Epoch:45
+Test Loss:1.235006
+Test Accuracy:57.38999999999999
+Epoch:46
+Test Loss:1.1986916
+Test Accuracy:59.419999999999995
+Epoch:47
+Test Loss:1.2083596
+Test Accuracy:59.12
+Epoch:48
+Test Loss:1.2472951
+Test Accuracy:57.78
+Epoch:49
+Test Loss:1.242332
+Test Accuracy:58.330000000000005
+Epoch:50
+Test Loss:1.2315755
+Test Accuracy:57.620000000000005
+Epoch:51
+Test Loss:1.3111295
+Test Accuracy:55.47
+Epoch:52
+Test Loss:1.2524384
+Test Accuracy:57.43000000000001
+Epoch:53
+Test Loss:1.2906685
+Test Accuracy:56.36
+Epoch:54
+Test Loss:1.2487975
+Test Accuracy:57.52
+Epoch:55
+Test Loss:1.2655927
+Test Accuracy:57.11000000000001
+Epoch:56
+Test Loss:1.2728965
+Test Accuracy:56.19
+Epoch:57
+Test Loss:1.2174906
+Test Accuracy:58.989999999999995
+Epoch:58
+Test Loss:1.2085061
+Test Accuracy:58.830000000000005
+Epoch:59
+Test Loss:1.2038604
+Test Accuracy:58.58
+Epoch:60
+Test Loss:1.208618
+Test Accuracy:58.620000000000005
+Epoch:61
+Test Loss:1.2331357
+Test Accuracy:57.31
+Epoch:62
+Test Loss:1.2644585
+Test Accuracy:56.39999999999999
+Epoch:63
+Test Loss:1.2212625
+Test Accuracy:58.08
+Epoch:64
+Test Loss:1.2045983
+Test Accuracy:58.60999999999999
+Epoch:65
+Test Loss:1.1978431
+Test Accuracy:59.35
+Epoch:66
+Test Loss:1.2300816
+Test Accuracy:57.60999999999999
+Epoch:67
+Test Loss:1.2028196
+Test Accuracy:58.60999999999999
+Epoch:68
+Test Loss:1.226692
+Test Accuracy:57.78
+Epoch:69
+Test Loss:1.1908226
+Test Accuracy:59.25
+Epoch:70
+Test Loss:1.2147597
+Test Accuracy:58.25
+Epoch:71
+Test Loss:1.1961861
+Test Accuracy:59.48
+Epoch:72
+Test Loss:1.2218494
+Test Accuracy:58.730000000000004
+Epoch:73
+Test Loss:1.2013298
+Test Accuracy:59.56
+Epoch:74
+Test Loss:1.1785936
+Test Accuracy:60.029999999999994
+Epoch:75
+Test Loss:1.1908882
+Test Accuracy:59.43000000000001
+Epoch:76
+Test Loss:1.1637862
+Test Accuracy:60.74
+Epoch:77
+Test Loss:1.1751387
+Test Accuracy:60.57
+Epoch:78
+Test Loss:1.1888784
+Test Accuracy:59.06
+Epoch:79
+Test Loss:1.1874787
+Test Accuracy:59.519999999999996
+Epoch:80
+Test Loss:1.2050493
+Test Accuracy:59.019999999999996
+Epoch:81
+Test Loss:1.1675081
+Test Accuracy:60.529999999999994
+Epoch:82
+Test Loss:1.1684377
+Test Accuracy:60.18
+Epoch:83
+Test Loss:1.1754738
+Test Accuracy:59.830000000000005
+Epoch:84
+Test Loss:1.1695975
+Test Accuracy:61.050000000000004
+Epoch:85
+Test Loss:1.162691
+Test Accuracy:60.22
+Epoch:86
+Test Loss:1.152127
+Test Accuracy:61.07
+Epoch:87
+Test Loss:1.2033108
+Test Accuracy:59.24
+Epoch:88
+Test Loss:1.1893365
+Test Accuracy:58.79
+Epoch:89
+Test Loss:1.1734622
+Test Accuracy:60.45
+Epoch:90
+Test Loss:1.2065701
+Test Accuracy:58.720000000000006
+Epoch:91
+Test Loss:1.1944865
+Test Accuracy:60.19
+Epoch:92
+Test Loss:1.1973534
+Test Accuracy:58.919999999999995
+Epoch:93
+Test Loss:1.1542941
+Test Accuracy:60.67
+Epoch:94
+Test Loss:1.1545796
+Test Accuracy:60.56
+Epoch:95
+Test Loss:1.1638361
+Test Accuracy:61.4
+Epoch:96
+Test Loss:1.1349776
+Test Accuracy:60.96
+Epoch:97
+Test Loss:1.1836953
+Test Accuracy:59.38
+Epoch:98
+Test Loss:1.1974154
+Test Accuracy:59.74
+Epoch:99
+Test Loss:1.186969
+Test Accuracy:59.78
+Epoch:100
+Test Loss:1.1483052
+Test Accuracy:61.44
+Epoch:101
+Test Loss:1.1574672
+Test Accuracy:60.69
+Epoch:102
+Test Loss:1.1422118
+Test Accuracy:61.46
+Epoch:103
+Test Loss:1.2016466
+Test Accuracy:59.84
+Epoch:104
+Test Loss:1.1865247
+Test Accuracy:60.0
+Epoch:105
+Test Loss:1.1934217
+Test Accuracy:60.019999999999996
+Epoch:106
+Test Loss:1.1545771
+Test Accuracy:60.699999999999996
+Epoch:107
+Test Loss:1.1604949
+Test Accuracy:60.97
+Epoch:108
+Test Loss:1.156068
+Test Accuracy:60.78
+Epoch:109
+Test Loss:1.1868954
+Test Accuracy:59.9
+Epoch:110
+Test Loss:1.1695851
+Test Accuracy:60.67
+Epoch:111
+Test Loss:1.1597028
+Test Accuracy:60.78
+Epoch:112
+Test Loss:1.1779159
+Test Accuracy:59.62
+Epoch:113
+Test Loss:1.2448047
+Test Accuracy:57.620000000000005
+Epoch:114
+Test Loss:1.1753162
+Test Accuracy:60.06
+Epoch:115
+Test Loss:1.2165867
+Test Accuracy:59.050000000000004
+Epoch:116
+Test Loss:1.1755168
+Test Accuracy:60.129999999999995
+Epoch:117
+Test Loss:1.1876447
+Test Accuracy:59.8
+Epoch:118
+Test Loss:1.1794014
+Test Accuracy:59.62
+Epoch:119
+Test Loss:1.2030363
+Test Accuracy:58.75
+Epoch:120
+Test Loss:1.1601851
+Test Accuracy:60.23
+Epoch:121
+Test Loss:1.2009991
+Test Accuracy:58.879999999999995
+Epoch:122
+Test Loss:1.2002647
+Test Accuracy:59.540000000000006
+Epoch:123
+Test Loss:1.219967
+Test Accuracy:58.620000000000005
+Epoch:124
+Test Loss:1.2031777
+Test Accuracy:59.12
+Epoch:125
+Test Loss:1.2269349
+Test Accuracy:58.28
+Epoch:126
+Test Loss:1.2014632
+Test Accuracy:59.599999999999994
+Epoch:127
+Test Loss:1.1969035
+Test Accuracy:59.5
+Epoch:128
+Test Loss:1.1832467
+Test Accuracy:60.47
+Epoch:129
+Test Loss:1.2058611
+Test Accuracy:59.18
+Epoch:130
+Test Loss:1.2034116
+Test Accuracy:59.38
+Epoch:131
+Test Loss:1.1627524
+Test Accuracy:60.85
+Epoch:132
+Test Loss:1.1660341
+Test Accuracy:60.029999999999994
+Epoch:133
+Test Loss:1.2331494
+Test Accuracy:58.39
+Epoch:134
+Test Loss:1.2030232
+Test Accuracy:59.24
+Epoch:135
+Test Loss:1.207706
+Test Accuracy:59.24
+Epoch:136
+Test Loss:1.217526
+Test Accuracy:59.040000000000006
+Epoch:137
+Test Loss:1.182065
+Test Accuracy:60.199999999999996
+Epoch:138
+Test Loss:1.1884214
+Test Accuracy:59.3
+Epoch:139
+Test Loss:1.1878707
+Test Accuracy:60.42999999999999
+Epoch:140
+Test Loss:1.1834239
+Test Accuracy:60.4
+Epoch:141
+Test Loss:1.1984501
+Test Accuracy:59.660000000000004
+Epoch:142
+Test Loss:1.2196089
+Test Accuracy:58.53
+Epoch:143
+Test Loss:1.1855676
+Test Accuracy:59.919999999999995

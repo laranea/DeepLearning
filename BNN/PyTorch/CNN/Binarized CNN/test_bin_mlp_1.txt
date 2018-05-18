@@ -1,0 +1,129 @@
+Epoch:1
+Test Loss:2.0072856
+Test Accuracy:28.95
+Epoch:2
+Test Loss:1.8183465
+Test Accuracy:36.86
+Epoch:3
+Test Loss:1.7360396
+Test Accuracy:38.800000000000004
+Epoch:4
+Test Loss:1.6812071
+Test Accuracy:41.6
+Epoch:5
+Test Loss:1.6717781
+Test Accuracy:42.69
+Epoch:6
+Test Loss:1.6513877
+Test Accuracy:43.1
+Epoch:7
+Test Loss:1.7471514
+Test Accuracy:39.56
+Epoch:8
+Test Loss:1.7202145
+Test Accuracy:39.79
+Epoch:9
+Test Loss:1.6816949
+Test Accuracy:41.18
+Epoch:10
+Test Loss:1.6757237
+Test Accuracy:41.8
+Epoch:11
+Test Loss:1.6649123
+Test Accuracy:42.32
+Epoch:12
+Test Loss:1.7419963
+Test Accuracy:39.78
+Epoch:13
+Test Loss:1.7534152
+Test Accuracy:39.14
+Epoch:14
+Test Loss:1.7147676
+Test Accuracy:40.38
+Epoch:15
+Test Loss:1.7604568
+Test Accuracy:39.5
+Epoch:16
+Test Loss:1.6954424
+Test Accuracy:41.48
+Epoch:17
+Test Loss:1.7012371
+Test Accuracy:40.86
+Epoch:18
+Test Loss:1.6618699
+Test Accuracy:42.36
+Epoch:19
+Test Loss:1.6351644
+Test Accuracy:43.2
+Epoch:20
+Test Loss:1.64666
+Test Accuracy:42.53
+Epoch:21
+Test Loss:1.648432
+Test Accuracy:43.04
+Epoch:22
+Test Loss:1.6659381
+Test Accuracy:42.92
+Epoch:23
+Test Loss:1.6521463
+Test Accuracy:42.96
+Epoch:24
+Test Loss:1.6590791
+Test Accuracy:42.55
+Epoch:25
+Test Loss:1.6904933
+Test Accuracy:41.53
+Epoch:26
+Test Loss:1.6637911
+Test Accuracy:42.32
+Epoch:27
+Test Loss:1.6524487
+Test Accuracy:43.16
+Epoch:28
+Test Loss:1.7816625
+Test Accuracy:37.95
+Epoch:29
+Test Loss:1.6441966
+Test Accuracy:43.29
+Epoch:30
+Test Loss:1.6992114
+Test Accuracy:40.6
+Epoch:31
+Test Loss:1.8061563
+Test Accuracy:37.68
+Epoch:32
+Test Loss:1.707567
+Test Accuracy:40.54
+Epoch:33
+Test Loss:1.7012521
+Test Accuracy:40.760000000000005
+Epoch:34
+Test Loss:1.6589117
+Test Accuracy:42.64
+Epoch:35
+Test Loss:1.7067425
+Test Accuracy:40.54
+Epoch:36
+Test Loss:1.6790637
+Test Accuracy:41.839999999999996
+Epoch:37
+Test Loss:1.6615328
+Test Accuracy:42.3
+Epoch:38
+Test Loss:1.6808152
+Test Accuracy:41.349999999999994
+Epoch:39
+Test Loss:1.6744092
+Test Accuracy:42.39
+Epoch:40
+Test Loss:1.683632
+Test Accuracy:42.42
+Epoch:41
+Test Loss:1.7007313
+Test Accuracy:40.9
+Epoch:42
+Test Loss:1.689276
+Test Accuracy:40.71
+Epoch:43
+Test Loss:1.6905456
+Test Accuracy:40.96
